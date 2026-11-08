@@ -1,0 +1,15 @@
+{
+  "name": "Alam AlSahara",
+  "nameAr": "عالم الصحراء",
+  "descriptionAr": "خدمات بترولية، تدريب، استشارات وتوريدات",
+  "descriptionEn": "Petroleum services, training, consulting & supplies",
+  "website": "https://alamalsahara.com",
+  "socials": [
+    {"name":"LinkedIn","url":"https://www.linkedin.com/company/alamalsahara/","icon":"linkedin","labelAr":"تابع أخبارنا المهنية","labelEn":"Our professional network"},
+    {"name":"Facebook","url":"https://www.facebook.com/share/19JEyebgyt/","icon":"facebook","labelAr":"أخبارنا وكل جديد","labelEn":"Our latest news & updates"},
+    {"name":"Instagram","url":"https://www.instagram.com/alam.alsahara","icon":"instagram","labelAr":"شوف عالمنا عن قرب","labelEn":"A closer look at our world"},
+    {"name":"Snapchat","url":"https://www.snapchat.com/add/alamalsaharaeg","icon":"snapchat","labelAr":"لحظات من يومنا","labelEn":"Moments from our day"},
+    {"name":"TikTok","url":"https://www.tiktok.com/@alam.alsahara.eg","icon":"tiktok","labelAr":"تابع أحدث الفيديوهات","labelEn":"Watch our latest videos"},
+    {"name":"YouTube","url":"https://youtube.com/@alamalsahara","icon":"youtube","labelAr":"اكتشف قناتنا","labelEn":"Explore our channel"}
+  ]
+}
