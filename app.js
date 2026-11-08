@@ -1,6 +1,6 @@
 
 let profile;
-let language='ar';
+let language='en';
 const $=s=>document.querySelector(s);
 function icon(id){const svg=document.createElementNS('http://www.w3.org/2000/svg','svg');const use=document.createElementNS('http://www.w3.org/2000/svg','use');use.setAttribute('href','#'+id);svg.setAttribute('aria-hidden','true');svg.append(use);return svg}
 function renderTheme(){
